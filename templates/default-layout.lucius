@@ -71,3 +71,7 @@
 #message {
     margin-bottom: 40px;
 }
+
+code, pre {
+    font-family: "Hasklig";
+}

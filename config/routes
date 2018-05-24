@@ -9,6 +9,8 @@
 
 / HomeR GET POST
 
+/articles/functional-programming/typeclasses/category-theory/functor FPFunctorR GET
+
 /comments CommentR POST
 
 /profile ProfileR GET
